@@ -1,0 +1,18 @@
+# Nigerian SME Sales Prediction - Streamlit Cloud Requirements
+# Simplified version (latest versions)
+
+pycaret
+pandas
+numpy
+streamlit
+joblib
+matplotlib
+plotly
+lightgbm
+xgboost
+catboost
+scikit-learn
+scipy
+scikit-optimize
+imbalanced-learn
+pyod
